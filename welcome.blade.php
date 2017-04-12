@@ -40,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Forest CAB</div>
+                <div class="title">Forest CAB une nouvelle entreprise</div>
             </div>
         </div>
     </body>
